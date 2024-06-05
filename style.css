@@ -1,8 +1,12 @@
 body{
-    background-color: aquamarine;
+    background-image:linear-gradient(darkmagenta, pink);
     text-align: center;
 }
 img {
     width: 100px;
     height: 100px;
+}
+.img{
+    width: 150px;
+    height: 150px;
 }
